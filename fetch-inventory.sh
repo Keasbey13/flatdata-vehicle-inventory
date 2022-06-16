@@ -33,11 +33,8 @@ do
           year: .year.code,
           vehicle: .grade.series_code,
           model: .grade.code,
-          enginge: .engine.title,
           transmission: .transmission.title,
-          drivetrain: .drive.title,
           color: .exteriorcolor.title,
-          interior: .interiorcolor.title,
           base_msrp: .priceInfo.baseMSRP,
           total_msrp: .priceInfo.totalMSRP,
           created_at: now | strflocaltime("%Y-%m-%d %H:%M:%S")

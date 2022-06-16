@@ -36,8 +36,6 @@ do
           enginge: .engine.title,
           transmission: .transmission.title,
           drivetrain: .drive.title,
-          cab: .cab.title,
-          bed: .bed.title,
           color: .exteriorcolor.title,
           interior: .interiorcolor.title,
           base_msrp: .priceInfo.baseMSRP,

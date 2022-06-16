@@ -40,9 +40,6 @@ do
           interior: .interiorcolor.title,
           base_msrp: .priceInfo.baseMSRP,
           total_msrp: .priceInfo.totalMSRP,
-          availability_date: .availabilityDate,
-          total_packages: .accessories | length,
-          packages: .accessories | map(.title) | join(", "),
           created_at: now | strflocaltime("%Y-%m-%d %H:%M:%S")
         }' \
   >> inventory.jsonl

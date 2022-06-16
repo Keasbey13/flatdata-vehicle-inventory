@@ -12,10 +12,7 @@
     "interior": "Black Ultrasuede® with Leather-trimmed side bolsters",
     "base_msrp": "31800",
     "total_msrp": "33188.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": ", All-Weather Mat Package[installed_msrp], Door Edge Guards[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, First Aid Kit w/ PPE[installed_msrp]",
-    "created_at": "2022-06-16 20:30:39"
+    "created_at": "2022-06-16 20:32:40"
   },
   {
     "dealer": "37188",
@@ -30,10 +27,7 @@
     "interior": "Black Ultrasuede® with Leather-trimmed side bolsters",
     "base_msrp": "31800",
     "total_msrp": "33188.0",
-    "availability_date": null,
-    "total_packages": 0,
-    "packages": "",
-    "created_at": "2022-06-16 20:30:50"
+    "created_at": "2022-06-16 20:32:49"
   },
   {
     "dealer": "37195",
@@ -48,10 +42,7 @@
     "interior": "Black Fabric",
     "base_msrp": "29200",
     "total_msrp": "30988.0",
-    "availability_date": null,
-    "total_packages": 0,
-    "packages": "",
-    "created_at": "2022-06-16 20:30:52"
+    "created_at": "2022-06-16 20:32:52"
   },
   {
     "dealer": "37176",
@@ -66,9 +57,6 @@
     "interior": "Black Ultrasuede® with Leather-trimmed side bolsters",
     "base_msrp": "31800",
     "total_msrp": "34511.0",
-    "availability_date": null,
-    "total_packages": 0,
-    "packages": "",
-    "created_at": "2022-06-16 20:31:01"
+    "created_at": "2022-06-16 20:33:01"
   }
 ]

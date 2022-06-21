@@ -49,7 +49,7 @@ code,dealerId,name,url,regionId,state,lat,long
 37127,37127,Colonial Toyota,https://www.shopcolonialtoyota.com,80,PA,40.6208,-79.195245
 37142,37142,Fiore Toyota,https://www.gofioretoyota.com,80,PA,40.451481,-78.394489
 37170,37170,Stoltz Toyota of Dubois,https://www.stoltztoyota.com,80,PA,41.120332,-78.737563
-37094,37094,Joel Confer Toyota,https://www.joelconfer.com,80,PA,40.804511,-77.882559
+37094,37094,Joel Confer Toyota ,https://www.joelconfer.com,80,PA,40.804511,-77.882559
 37179,37179,Bobby Rahal Toyota of Lewistown,https://www.bobbyrahaltoyotaoflewistown.com,80,PA,40.617743,-77.565154
 37191,37191,Ciocca Toyota of Williamsport,https://www.cioccatoyotaofwilliamsport.com,80,PA,41.23615,-76.812347
 37155,37155,Aubrey Alexander Toyota,https://www.aubreyalexandertoyota.com,80,PA,40.827988,-76.84238

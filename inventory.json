@@ -9,19 +9,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "27700",
     "total_msrp": "29365.0",
-    "created_at": "2022-06-23 11:35:00"
-  },
-  {
-    "dealer": "37112",
-    "vin": "JF1ZNBB13N9756814",
-    "year": "2022",
-    "vehicle": "86",
-    "model": "G8",
-    "transmission": "6MT",
-    "color": "Track bRED [extra_cost_color]",
-    "base_msrp": "27700",
-    "total_msrp": "29582.0",
-    "created_at": "2022-06-23 11:35:00"
+    "created_at": "2022-06-24 11:35:33"
   },
   {
     "dealer": "37172",
@@ -33,7 +21,7 @@
     "color": "Raven",
     "base_msrp": "29200",
     "total_msrp": "30632.0",
-    "created_at": "2022-06-23 11:35:01"
+    "created_at": "2022-06-24 11:35:34"
   },
   {
     "dealer": "37114",
@@ -45,19 +33,7 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "27700",
     "total_msrp": "29132.0",
-    "created_at": "2022-06-23 11:35:03"
-  },
-  {
-    "dealer": "37154",
-    "vin": "JF1ZNBB16N9756533",
-    "year": "2022",
-    "vehicle": "86",
-    "model": "G8",
-    "transmission": "6MT",
-    "color": "Halo [extra_cost_color]",
-    "base_msrp": "27700",
-    "total_msrp": "29132.0",
-    "created_at": "2022-06-23 11:35:04"
+    "created_at": "2022-06-24 11:35:36"
   },
   {
     "dealer": "37152",
@@ -69,7 +45,7 @@
     "color": "Pavement",
     "base_msrp": "27700",
     "total_msrp": "29736.0",
-    "created_at": "2022-06-23 11:35:04"
+    "created_at": "2022-06-24 11:35:37"
   },
   {
     "dealer": "37185",
@@ -81,7 +57,7 @@
     "color": "Neptune",
     "base_msrp": "31800",
     "total_msrp": "33163.0",
-    "created_at": "2022-06-23 11:35:14"
+    "created_at": "2022-06-24 11:35:44"
   },
   {
     "dealer": "37157",
@@ -93,6 +69,18 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "29200",
     "total_msrp": "30563.0",
-    "created_at": "2022-06-23 11:35:15"
+    "created_at": "2022-06-24 11:35:44"
+  },
+  {
+    "dealer": "37155",
+    "vin": "JF1ZNBF1XN8756423",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Track bRED [extra_cost_color]",
+    "base_msrp": "31800",
+    "total_msrp": "33312.0",
+    "created_at": "2022-06-24 11:35:48"
   }
 ]

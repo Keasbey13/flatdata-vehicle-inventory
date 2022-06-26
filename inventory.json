@@ -9,7 +9,7 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "30300",
     "total_msrp": "32626.0",
-    "created_at": "2022-06-25 11:30:12"
+    "created_at": "2022-06-26 11:30:05"
   },
   {
     "dealer": "37148",
@@ -21,19 +21,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "27700",
     "total_msrp": "29365.0",
-    "created_at": "2022-06-25 11:30:14"
-  },
-  {
-    "dealer": "37112",
-    "vin": "JF1ZNBB10N9756804",
-    "year": "2022",
-    "vehicle": "86",
-    "model": "G8",
-    "transmission": "6MT",
-    "color": "Neptune",
-    "base_msrp": "27700",
-    "total_msrp": "29123.0",
-    "created_at": "2022-06-25 11:30:15"
+    "created_at": "2022-06-26 11:30:07"
   },
   {
     "dealer": "37114",
@@ -45,19 +33,19 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "27700",
     "total_msrp": "29132.0",
-    "created_at": "2022-06-25 11:30:16"
+    "created_at": "2022-06-26 11:30:09"
   },
   {
-    "dealer": "37152",
-    "vin": "JF1ZNBB1XN9756616",
+    "dealer": "37083",
+    "vin": "JF1ZNBF13N8757025",
     "year": "2022",
     "vehicle": "86",
-    "model": "G8",
-    "transmission": "6MT",
-    "color": "Pavement",
-    "base_msrp": "27700",
-    "total_msrp": "29736.0",
-    "created_at": "2022-06-25 11:30:18"
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Trueno Blue",
+    "base_msrp": "31800",
+    "total_msrp": "33188.0",
+    "created_at": "2022-06-26 11:30:11"
   },
   {
     "dealer": "37188",
@@ -69,7 +57,7 @@
     "color": "Neptune",
     "base_msrp": "31800",
     "total_msrp": "33188.0",
-    "created_at": "2022-06-25 11:30:22"
+    "created_at": "2022-06-26 11:30:16"
   },
   {
     "dealer": "37185",
@@ -81,7 +69,7 @@
     "color": "Neptune",
     "base_msrp": "31800",
     "total_msrp": "33163.0",
-    "created_at": "2022-06-25 11:30:26"
+    "created_at": "2022-06-26 11:30:20"
   },
   {
     "dealer": "37157",
@@ -93,6 +81,6 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "29200",
     "total_msrp": "30563.0",
-    "created_at": "2022-06-25 11:30:26"
+    "created_at": "2022-06-26 11:30:20"
   }
 ]

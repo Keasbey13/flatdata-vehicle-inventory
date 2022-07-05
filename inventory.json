@@ -1,5 +1,29 @@
 [
   {
+    "dealer": "37172",
+    "vin": "JF1ZNBB16N9757276",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8",
+    "transmission": "6MT",
+    "color": "Halo [extra_cost_color]",
+    "base_msrp": "27700",
+    "total_msrp": "30405.0",
+    "created_at": "2022-07-05 11:38:15"
+  },
+  {
+    "dealer": "37152",
+    "vin": "JF1ZNBB15N9757396",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8",
+    "transmission": "6MT",
+    "color": "Track bRED [extra_cost_color]",
+    "base_msrp": "27700",
+    "total_msrp": "29278.0",
+    "created_at": "2022-07-05 11:38:18"
+  },
+  {
     "dealer": "37101",
     "vin": "JF1ZNBC15N8756284",
     "year": "2022",
@@ -9,7 +33,19 @@
     "color": "Trueno Blue",
     "base_msrp": "29200",
     "total_msrp": "31017.0",
-    "created_at": "2022-07-04 11:34:57"
+    "created_at": "2022-07-05 11:38:18"
+  },
+  {
+    "dealer": "37150",
+    "vin": "JF1ZNBE16N9757404",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6MT",
+    "color": "Trueno Blue",
+    "base_msrp": "30300",
+    "total_msrp": "31743.0",
+    "created_at": "2022-07-05 11:38:19"
   },
   {
     "dealer": "37065",
@@ -21,7 +57,7 @@
     "color": "Pavement",
     "base_msrp": "27700",
     "total_msrp": "29152.0",
-    "created_at": "2022-07-04 11:34:58"
+    "created_at": "2022-07-05 11:38:20"
   },
   {
     "dealer": "37138",
@@ -33,7 +69,7 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "27700",
     "total_msrp": "29088.0",
-    "created_at": "2022-07-04 11:35:00"
+    "created_at": "2022-07-05 11:38:21"
   },
   {
     "dealer": "37134",
@@ -45,18 +81,6 @@
     "color": "Trueno Blue",
     "base_msrp": "31800",
     "total_msrp": "33937.0",
-    "created_at": "2022-07-04 11:35:03"
-  },
-  {
-    "dealer": "37176",
-    "vin": "JF1ZNBB1XN9757216",
-    "year": "2022",
-    "vehicle": "86",
-    "model": "G8",
-    "transmission": "6MT",
-    "color": "Halo [extra_cost_color]",
-    "base_msrp": "27700",
-    "total_msrp": "29986.0",
-    "created_at": "2022-07-04 11:35:11"
+    "created_at": "2022-07-05 11:38:25"
   }
 ]

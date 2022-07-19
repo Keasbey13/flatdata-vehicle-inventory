@@ -1,5 +1,17 @@
 [
   {
+    "dealer": "37112",
+    "vin": "JF1ZNBF10N8758486",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Halo [extra_cost_color]",
+    "base_msrp": "31800",
+    "total_msrp": "33553.0",
+    "created_at": "2022-07-19 11:31:22"
+  },
+  {
     "dealer": "37184",
     "vin": "JF1ZNBC18N8757946",
     "year": "2022",
@@ -9,7 +21,7 @@
     "color": "Steel",
     "base_msrp": "29200",
     "total_msrp": "31117.0",
-    "created_at": "2022-07-18 11:30:59"
+    "created_at": "2022-07-19 11:31:25"
   },
   {
     "dealer": "37154",
@@ -21,19 +33,7 @@
     "color": "Neptune",
     "base_msrp": "30300",
     "total_msrp": "31663.0",
-    "created_at": "2022-07-18 11:31:00"
-  },
-  {
-    "dealer": "37065",
-    "vin": "JF1ZNBB11N9757279",
-    "year": "2022",
-    "vehicle": "86",
-    "model": "G8",
-    "transmission": "6MT",
-    "color": "Pavement",
-    "base_msrp": "27700",
-    "total_msrp": "29152.0",
-    "created_at": "2022-07-18 11:31:03"
+    "created_at": "2022-07-19 11:31:25"
   },
   {
     "dealer": "37149",
@@ -45,31 +45,31 @@
     "color": "Pavement",
     "base_msrp": "31800",
     "total_msrp": "33238.0",
-    "created_at": "2022-07-18 11:31:05"
+    "created_at": "2022-07-19 11:31:30"
   },
   {
-    "dealer": "37134",
-    "vin": "JF1ZNBF15N8757141",
+    "dealer": "37153",
+    "vin": "JF1ZNBF11N8758562",
     "year": "2022",
     "vehicle": "86",
     "model": "G8P",
     "transmission": "6AT",
-    "color": "Trueno Blue",
+    "color": "Neptune",
     "base_msrp": "31800",
-    "total_msrp": "33937.0",
-    "created_at": "2022-07-18 11:31:08"
+    "total_msrp": "33681.0",
+    "created_at": "2022-07-19 11:31:32"
   },
   {
-    "dealer": "37195",
-    "vin": "JF1ZNBC14N8757779",
+    "dealer": "37109",
+    "vin": "JF1ZNBE1XN9757955",
     "year": "2022",
     "vehicle": "86",
-    "model": "G8",
-    "transmission": "6AT",
-    "color": "Pavement",
-    "base_msrp": "29200",
-    "total_msrp": "30807.0",
-    "created_at": "2022-07-18 11:31:08"
+    "model": "G8P",
+    "transmission": "6MT",
+    "color": "Neptune",
+    "base_msrp": "30300",
+    "total_msrp": "31798.0",
+    "created_at": "2022-07-19 11:31:36"
   },
   {
     "dealer": "37189",
@@ -81,7 +81,7 @@
     "color": "Trueno Blue",
     "base_msrp": "31800",
     "total_msrp": "33407.0",
-    "created_at": "2022-07-18 11:31:10"
+    "created_at": "2022-07-19 11:31:38"
   },
   {
     "dealer": "37171",
@@ -93,6 +93,6 @@
     "color": "Pavement",
     "base_msrp": "29200",
     "total_msrp": "30643.0",
-    "created_at": "2022-07-18 11:31:14"
+    "created_at": "2022-07-19 11:31:42"
   }
 ]

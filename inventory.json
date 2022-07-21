@@ -1,51 +1,51 @@
 [
   {
-    "dealer": "37184",
-    "vin": "JF1ZNBC18N8757946",
+    "dealer": "37130",
+    "vin": "JF1ZNBF13N8758580",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Pavement",
+    "base_msrp": "31800",
+    "total_msrp": "33307.0",
+    "created_at": "2022-07-21 11:30:58"
+  },
+  {
+    "dealer": "37101",
+    "vin": "JF1ZNBF18N8758221",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Steel",
+    "base_msrp": "31800",
+    "total_msrp": "33154.0",
+    "created_at": "2022-07-21 11:31:03"
+  },
+  {
+    "dealer": "37126",
+    "vin": "JF1ZNBF11N8758075",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Trueno Blue",
+    "base_msrp": "31800",
+    "total_msrp": "33238.0",
+    "created_at": "2022-07-21 11:31:05"
+  },
+  {
+    "dealer": "37193",
+    "vin": "JF1ZNBC1XN8758550",
     "year": "2022",
     "vehicle": "86",
     "model": "G8",
     "transmission": "6AT",
-    "color": "Steel",
+    "color": "Halo [extra_cost_color]",
     "base_msrp": "29200",
-    "total_msrp": "31117.0",
-    "created_at": "2022-07-20 11:30:31"
-  },
-  {
-    "dealer": "37154",
-    "vin": "JF1ZNBE11N9758086",
-    "year": "2022",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6MT",
-    "color": "Neptune",
-    "base_msrp": "30300",
-    "total_msrp": "31663.0",
-    "created_at": "2022-07-20 11:30:32"
-  },
-  {
-    "dealer": "37153",
-    "vin": "JF1ZNBF11N8758562",
-    "year": "2022",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6AT",
-    "color": "Neptune",
-    "base_msrp": "31800",
-    "total_msrp": "33681.0",
-    "created_at": "2022-07-20 11:30:39"
-  },
-  {
-    "dealer": "37109",
-    "vin": "JF1ZNBE1XN9757955",
-    "year": "2022",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6MT",
-    "color": "Neptune",
-    "base_msrp": "30300",
-    "total_msrp": "31798.0",
-    "created_at": "2022-07-20 11:30:44"
+    "total_msrp": "30707.0",
+    "created_at": "2022-07-21 11:31:07"
   },
   {
     "dealer": "37189",
@@ -57,7 +57,7 @@
     "color": "Trueno Blue",
     "base_msrp": "31800",
     "total_msrp": "33407.0",
-    "created_at": "2022-07-20 11:30:45"
+    "created_at": "2022-07-21 11:31:13"
   },
   {
     "dealer": "37171",
@@ -69,6 +69,6 @@
     "color": "Pavement",
     "base_msrp": "29200",
     "total_msrp": "30643.0",
-    "created_at": "2022-07-20 11:30:50"
+    "created_at": "2022-07-21 11:31:17"
   }
 ]

@@ -9,7 +9,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "32000",
     "total_msrp": "33472.0",
-    "created_at": "2022-08-04 11:31:04"
+    "created_at": "2022-08-05 11:33:14"
   },
   {
     "dealer": "37096",
@@ -21,6 +21,18 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "29400",
     "total_msrp": "30803.0",
-    "created_at": "2022-08-04 11:31:14"
+    "created_at": "2022-08-05 11:33:27"
+  },
+  {
+    "dealer": "37176",
+    "vin": "JF1ZNBF14N8758619",
+    "year": "2022",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Track bRED [extra_cost_color]",
+    "base_msrp": "31800",
+    "total_msrp": "33653.0",
+    "created_at": "2022-08-05 11:33:34"
   }
 ]

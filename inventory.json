@@ -9,7 +9,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "32000",
     "total_msrp": "34007.0",
-    "created_at": "2022-10-04 11:37:42"
+    "created_at": "2022-10-05 11:37:56"
   },
   {
     "dealer": "37189",
@@ -21,7 +21,7 @@
     "color": "Neptune",
     "base_msrp": "29400",
     "total_msrp": "33237.0",
-    "created_at": "2022-10-04 11:37:52"
+    "created_at": "2022-10-05 11:38:08"
   },
   {
     "dealer": "37142",
@@ -33,6 +33,6 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "32000",
     "total_msrp": "35242.0",
-    "created_at": "2022-10-04 11:37:53"
+    "created_at": "2022-10-05 11:38:09"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "dealer": "37187",
+    "vin": "JF1ZNBE12P9751764",
+    "year": "2023",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6MT",
+    "color": "Halo [extra_cost_color]",
+    "base_msrp": "30500",
+    "total_msrp": "34711.0",
+    "created_at": "2022-10-06 11:38:21"
+  },
+  {
+    "dealer": "37184",
+    "vin": "JF1ZNBF17P8751859",
+    "year": "2023",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Halo [extra_cost_color]",
+    "base_msrp": "32000",
+    "total_msrp": "33982.0",
+    "created_at": "2022-10-06 11:38:25"
+  },
+  {
     "dealer": "37101",
     "vin": "JF1ZNBF16P8751867",
     "year": "2023",
@@ -9,7 +33,19 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "32000",
     "total_msrp": "34007.0",
-    "created_at": "2022-10-05 11:37:56"
+    "created_at": "2022-10-06 11:38:26"
+  },
+  {
+    "dealer": "37195",
+    "vin": "JF1ZNBE18P9751882",
+    "year": "2023",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6MT",
+    "color": "Pavement",
+    "base_msrp": "30500",
+    "total_msrp": "34337.0",
+    "created_at": "2022-10-06 11:38:38"
   },
   {
     "dealer": "37189",
@@ -21,18 +57,6 @@
     "color": "Neptune",
     "base_msrp": "29400",
     "total_msrp": "33237.0",
-    "created_at": "2022-10-05 11:38:08"
-  },
-  {
-    "dealer": "37142",
-    "vin": "JF1ZNBF18P8750767",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6AT",
-    "color": "Track bRED [extra_cost_color]",
-    "base_msrp": "32000",
-    "total_msrp": "35242.0",
-    "created_at": "2022-10-05 11:38:09"
+    "created_at": "2022-10-06 11:38:42"
   }
 ]

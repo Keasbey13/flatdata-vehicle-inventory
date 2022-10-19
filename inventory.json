@@ -9,7 +9,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "27900",
     "total_msrp": "31019.0",
-    "created_at": "2022-10-18 11:38:35"
+    "created_at": "2022-10-19 11:39:41"
   },
   {
     "dealer": "37184",
@@ -21,7 +21,7 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "32000",
     "total_msrp": "33982.0",
-    "created_at": "2022-10-18 11:38:37"
+    "created_at": "2022-10-19 11:39:43"
   },
   {
     "dealer": "37065",
@@ -33,7 +33,7 @@
     "color": "Pavement",
     "base_msrp": "29400",
     "total_msrp": "30733.0",
-    "created_at": "2022-10-18 11:38:39"
+    "created_at": "2022-10-19 11:39:47"
   },
   {
     "dealer": "37126",
@@ -45,7 +45,7 @@
     "color": "Raven",
     "base_msrp": "30500",
     "total_msrp": "33742.0",
-    "created_at": "2022-10-18 11:38:40"
+    "created_at": "2022-10-19 11:39:48"
   },
   {
     "dealer": "37134",
@@ -57,7 +57,7 @@
     "color": "Steel",
     "base_msrp": "32000",
     "total_msrp": "35183.0",
-    "created_at": "2022-10-18 11:38:45"
+    "created_at": "2022-10-19 11:39:53"
   },
   {
     "dealer": "37162",
@@ -69,6 +69,6 @@
     "color": "Neptune",
     "base_msrp": "27900",
     "total_msrp": "29219.0",
-    "created_at": "2022-10-18 11:38:48"
+    "created_at": "2022-10-19 11:39:58"
   }
 ]

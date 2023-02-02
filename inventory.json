@@ -1,14 +1,14 @@
 [
   {
-    "dealer": "37112",
-    "vin": "JF1ZNBE18P9755169",
+    "dealer": "37157",
+    "vin": "JF1ZNBC12P8754575",
     "year": "2023",
     "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6MT",
-    "color": "Neptune",
-    "base_msrp": "30500",
-    "total_msrp": "34351.0",
-    "created_at": "2023-02-01 11:28:02"
+    "model": "G8",
+    "transmission": "6AT",
+    "color": "Raven",
+    "base_msrp": "29400",
+    "total_msrp": "30873.0",
+    "created_at": "2023-02-02 11:28:07"
   }
 ]

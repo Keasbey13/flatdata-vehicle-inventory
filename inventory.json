@@ -1,5 +1,17 @@
 [
   {
+    "dealer": "37126",
+    "vin": "JF1ZNBF13P8755018",
+    "year": "2023",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6AT",
+    "color": "Neptune",
+    "base_msrp": "32000",
+    "total_msrp": "36057.0",
+    "created_at": "2023-02-03 11:28:13"
+  },
+  {
     "dealer": "37157",
     "vin": "JF1ZNBC12P8754575",
     "year": "2023",
@@ -9,6 +21,18 @@
     "color": "Raven",
     "base_msrp": "29400",
     "total_msrp": "30873.0",
-    "created_at": "2023-02-02 11:28:07"
+    "created_at": "2023-02-03 11:28:19"
+  },
+  {
+    "dealer": "37176",
+    "vin": "JF1ZNBE12P9755037",
+    "year": "2023",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6MT",
+    "color": "Neptune",
+    "base_msrp": "30500",
+    "total_msrp": "32916.0",
+    "created_at": "2023-02-03 11:28:24"
   }
 ]

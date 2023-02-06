@@ -9,7 +9,7 @@
     "color": "Neptune",
     "base_msrp": "32000",
     "total_msrp": "36057.0",
-    "created_at": "2023-02-05 11:28:19"
+    "created_at": "2023-02-06 11:28:00"
   },
   {
     "dealer": "37157",
@@ -21,7 +21,7 @@
     "color": "Raven",
     "base_msrp": "29400",
     "total_msrp": "30873.0",
-    "created_at": "2023-02-05 11:28:26"
+    "created_at": "2023-02-06 11:28:06"
   },
   {
     "dealer": "37155",
@@ -33,6 +33,6 @@
     "color": "Raven",
     "base_msrp": "32000",
     "total_msrp": "33703.0",
-    "created_at": "2023-02-05 11:28:31"
+    "created_at": "2023-02-06 11:28:10"
   }
 ]

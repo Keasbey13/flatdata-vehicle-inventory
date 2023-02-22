@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "dealer": "37114",
+    "vin": "JF1ZNBB14P9755822",
+    "year": "2023",
+    "vehicle": "86",
+    "model": "G8",
+    "transmission": "6MT",
+    "color": "Trueno Blue",
+    "base_msrp": "27900",
+    "total_msrp": "29453.0",
+    "created_at": "2023-02-22 11:27:58"
+  }
+]

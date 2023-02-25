@@ -9,7 +9,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "27900",
     "total_msrp": "29968.0",
-    "created_at": "2023-02-24 11:28:03"
+    "created_at": "2023-02-25 11:28:08"
   },
   {
     "dealer": "37132",
@@ -21,7 +21,7 @@
     "color": "Neptune",
     "base_msrp": "27900",
     "total_msrp": "29522.0",
-    "created_at": "2023-02-24 11:28:07"
+    "created_at": "2023-02-25 11:28:12"
   },
   {
     "dealer": "37162",
@@ -33,6 +33,6 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "32000",
     "total_msrp": "34486.0",
-    "created_at": "2023-02-24 11:28:14"
+    "created_at": "2023-02-25 11:28:22"
   }
 ]

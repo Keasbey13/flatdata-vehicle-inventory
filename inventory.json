@@ -9,7 +9,31 @@
     "color": "Steel",
     "base_msrp": "31000",
     "total_msrp": "32936.0",
-    "created_at": "2023-07-05 11:28:11"
+    "created_at": "2023-07-06 11:28:13"
+  },
+  {
+    "dealer": "37066",
+    "vin": "JF1ZNBE10P9760611",
+    "year": "2023",
+    "vehicle": "86",
+    "model": "G8P",
+    "transmission": "6MT",
+    "color": "Track bRED [extra_cost_color]",
+    "base_msrp": "31000",
+    "total_msrp": "32978.0",
+    "created_at": "2023-07-06 11:28:16"
+  },
+  {
+    "dealer": "37101",
+    "vin": "JF1ZNBB10P9760841",
+    "year": "2023",
+    "vehicle": "86",
+    "model": "G8",
+    "transmission": "6MT",
+    "color": "Halo [extra_cost_color]",
+    "base_msrp": "28400",
+    "total_msrp": "30447.0",
+    "created_at": "2023-07-06 11:28:18"
   },
   {
     "dealer": "37138",
@@ -21,19 +45,7 @@
     "color": "Raven",
     "base_msrp": "31000",
     "total_msrp": "34671.0",
-    "created_at": "2023-07-05 11:28:18"
-  },
-  {
-    "dealer": "37188",
-    "vin": "JF1ZNBC10P8759970",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8",
-    "transmission": "6AT",
-    "color": "Raven",
-    "base_msrp": "29900",
-    "total_msrp": "32784.0",
-    "created_at": "2023-07-05 11:28:20"
+    "created_at": "2023-07-06 11:28:21"
   },
   {
     "dealer": "37153",
@@ -45,7 +57,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "32500",
     "total_msrp": "36900.0",
-    "created_at": "2023-07-05 11:28:22"
+    "created_at": "2023-07-06 11:28:24"
   },
   {
     "dealer": "37195",
@@ -57,18 +69,18 @@
     "color": "Raven",
     "base_msrp": "29900",
     "total_msrp": "32346.0",
-    "created_at": "2023-07-05 11:28:24"
+    "created_at": "2023-07-06 11:28:26"
   },
   {
-    "dealer": "37176",
-    "vin": "JF1ZNBF15P8759653",
+    "dealer": "37191",
+    "vin": "JF1ZNBE1XP9759689",
     "year": "2023",
     "vehicle": "86",
     "model": "G8P",
-    "transmission": "6AT",
+    "transmission": "6MT",
     "color": "Track bRED [extra_cost_color]",
-    "base_msrp": "32500",
-    "total_msrp": "35111.0",
-    "created_at": "2023-07-05 11:28:33"
+    "base_msrp": "31000",
+    "total_msrp": "33198.0",
+    "created_at": "2023-07-06 11:28:31"
   }
 ]

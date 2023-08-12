@@ -9,19 +9,7 @@
     "color": "Trueno Blue",
     "base_msrp": "31000",
     "total_msrp": "35050.0",
-    "created_at": "2023-08-11 11:27:53"
-  },
-  {
-    "dealer": "37125",
-    "vin": "JF1ZNBB15P9762360",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8",
-    "transmission": "6MT",
-    "color": "Steel",
-    "base_msrp": "28400",
-    "total_msrp": "30107.0",
-    "created_at": "2023-08-11 11:27:58"
+    "created_at": "2023-08-12 11:27:57"
   },
   {
     "dealer": "37077",
@@ -33,7 +21,7 @@
     "color": "Trueno Blue",
     "base_msrp": "31000",
     "total_msrp": "34727.0",
-    "created_at": "2023-08-11 11:27:59"
+    "created_at": "2023-08-12 11:28:04"
   },
   {
     "dealer": "37126",
@@ -45,7 +33,7 @@
     "color": "Pavement",
     "base_msrp": "31000",
     "total_msrp": "34613.0",
-    "created_at": "2023-08-11 11:28:00"
+    "created_at": "2023-08-12 11:28:04"
   },
   {
     "dealer": "37161",
@@ -57,7 +45,7 @@
     "color": "Raven",
     "base_msrp": "31000",
     "total_msrp": "32956.0",
-    "created_at": "2023-08-11 11:28:00"
+    "created_at": "2023-08-12 11:28:05"
   },
   {
     "dealer": "37149",
@@ -69,7 +57,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "31000",
     "total_msrp": "34509.0",
-    "created_at": "2023-08-11 11:28:01"
+    "created_at": "2023-08-12 11:28:05"
   },
   {
     "dealer": "37193",
@@ -81,7 +69,7 @@
     "color": "Raven",
     "base_msrp": "31000",
     "total_msrp": "32956.0",
-    "created_at": "2023-08-11 11:28:01"
+    "created_at": "2023-08-12 11:28:06"
   },
   {
     "dealer": "37195",
@@ -93,7 +81,7 @@
     "color": "Raven",
     "base_msrp": "29900",
     "total_msrp": "32346.0",
-    "created_at": "2023-08-11 11:28:04"
+    "created_at": "2023-08-12 11:28:09"
   },
   {
     "dealer": "37185",
@@ -105,7 +93,7 @@
     "color": "Steel",
     "base_msrp": "31000",
     "total_msrp": "34486.0",
-    "created_at": "2023-08-11 11:28:06"
+    "created_at": "2023-08-12 11:28:10"
   },
   {
     "dealer": "37094",
@@ -117,7 +105,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "31000",
     "total_msrp": "33198.0",
-    "created_at": "2023-08-11 11:28:09"
+    "created_at": "2023-08-12 11:28:14"
   },
   {
     "dealer": "37176",
@@ -129,6 +117,6 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "29900",
     "total_msrp": "31868.0",
-    "created_at": "2023-08-11 11:28:12"
+    "created_at": "2023-08-12 11:28:17"
   }
 ]

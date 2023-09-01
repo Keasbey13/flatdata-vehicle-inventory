@@ -9,31 +9,7 @@
     "color": "Trueno Blue",
     "base_msrp": "31000",
     "total_msrp": "33080.0",
-    "created_at": "2023-08-31 11:28:08"
-  },
-  {
-    "dealer": "37112",
-    "vin": "JF1ZNBE13P9762725",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6MT",
-    "color": "Pavement",
-    "base_msrp": "31000",
-    "total_msrp": "32927.0",
-    "created_at": "2023-08-31 11:28:11"
-  },
-  {
-    "dealer": "37150",
-    "vin": "JF1ZNBB11P9760590",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8",
-    "transmission": "6MT",
-    "color": "Trueno Blue",
-    "base_msrp": "28400",
-    "total_msrp": "30022.0",
-    "created_at": "2023-08-31 11:28:15"
+    "created_at": "2023-09-01 11:27:52"
   },
   {
     "dealer": "37150",
@@ -45,7 +21,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "31000",
     "total_msrp": "33411.0",
-    "created_at": "2023-08-31 11:28:15"
+    "created_at": "2023-09-01 11:28:00"
   },
   {
     "dealer": "37193",
@@ -57,7 +33,7 @@
     "color": "Steel",
     "base_msrp": "28400",
     "total_msrp": "29953.0",
-    "created_at": "2023-08-31 11:28:17"
+    "created_at": "2023-09-01 11:28:02"
   },
   {
     "dealer": "37189",
@@ -69,6 +45,6 @@
     "color": "Trueno Blue",
     "base_msrp": "29900",
     "total_msrp": "33386.0",
-    "created_at": "2023-08-31 11:28:23"
+    "created_at": "2023-09-01 11:28:09"
   }
 ]

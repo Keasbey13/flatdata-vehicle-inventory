@@ -9,7 +9,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "28400",
     "total_msrp": "32496.0",
-    "created_at": "2023-09-14 11:28:00"
+    "created_at": "2023-09-15 11:28:05"
   },
   {
     "dealer": "37172",
@@ -21,19 +21,19 @@
     "color": "Steel",
     "base_msrp": "31000",
     "total_msrp": "32767.0",
-    "created_at": "2023-09-14 11:28:03"
+    "created_at": "2023-09-15 11:28:08"
   },
   {
-    "dealer": "37184",
-    "vin": "JF1ZNBE17P9763487",
+    "dealer": "37152",
+    "vin": "JF1ZNBE16P9763464",
     "year": "2023",
     "vehicle": "86",
     "model": "G8P",
     "transmission": "6MT",
-    "color": "Steel",
+    "color": "Track bRED [extra_cost_color]",
     "base_msrp": "31000",
-    "total_msrp": "32384.0",
-    "created_at": "2023-09-14 11:28:06"
+    "total_msrp": "33362.0",
+    "created_at": "2023-09-15 11:28:10"
   },
   {
     "dealer": "37193",
@@ -45,7 +45,7 @@
     "color": "Steel",
     "base_msrp": "28400",
     "total_msrp": "29953.0",
-    "created_at": "2023-09-14 11:28:11"
+    "created_at": "2023-09-15 11:28:14"
   },
   {
     "dealer": "37188",
@@ -57,18 +57,6 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "32500",
     "total_msrp": "34976.0",
-    "created_at": "2023-09-14 11:28:11"
-  },
-  {
-    "dealer": "37191",
-    "vin": "JF1ZNBE12P9763509",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6MT",
-    "color": "Track bRED [extra_cost_color]",
-    "base_msrp": "31000",
-    "total_msrp": "33178.0",
-    "created_at": "2023-09-14 11:28:20"
+    "created_at": "2023-09-15 11:28:15"
   }
 ]

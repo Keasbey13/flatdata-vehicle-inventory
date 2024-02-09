@@ -1,17 +1,5 @@
 [
   {
-    "dealer": "37114",
-    "vin": "JF1ZNBE18P9765071",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6MT",
-    "color": "Track bRED [extra_cost_color]",
-    "base_msrp": "31000",
-    "total_msrp": "33206.0",
-    "created_at": "2024-02-08 11:27:51"
-  },
-  {
     "dealer": "37161",
     "vin": "JF1ZNBH11P8755564",
     "year": "2023",
@@ -21,7 +9,7 @@
     "color": "Solar Shift [extra_cost_color]",
     "base_msrp": "35860",
     "total_msrp": "37708.0",
-    "created_at": "2024-02-08 11:27:54"
+    "created_at": "2024-02-09 11:28:14"
   },
   {
     "dealer": "37149",
@@ -33,7 +21,7 @@
     "color": "Steel",
     "base_msrp": "31000",
     "total_msrp": "32384.0",
-    "created_at": "2024-02-08 11:27:54"
+    "created_at": "2024-02-09 11:28:14"
   },
   {
     "dealer": "37153",
@@ -45,19 +33,7 @@
     "color": "Steel",
     "base_msrp": "31000",
     "total_msrp": "32612.0",
-    "created_at": "2024-02-08 11:27:55"
-  },
-  {
-    "dealer": "37036",
-    "vin": "JF1ZNBE17P9766342",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6MT",
-    "color": "Pavement",
-    "base_msrp": "31000",
-    "total_msrp": "34650.0",
-    "created_at": "2024-02-08 11:27:56"
+    "created_at": "2024-02-09 11:28:16"
   },
   {
     "dealer": "37094",
@@ -69,7 +45,7 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "31000",
     "total_msrp": "33198.0",
-    "created_at": "2024-02-08 11:27:59"
+    "created_at": "2024-02-09 11:28:21"
   },
   {
     "dealer": "37171",
@@ -81,6 +57,6 @@
     "color": "Halo [extra_cost_color]",
     "base_msrp": "31000",
     "total_msrp": "33198.0",
-    "created_at": "2024-02-08 11:28:00"
+    "created_at": "2024-02-09 11:28:22"
   }
 ]

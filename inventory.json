@@ -9,7 +9,7 @@
     "color": "Solar Shift [extra_cost_color]",
     "base_msrp": "35860",
     "total_msrp": "37708.0",
-    "created_at": "2024-02-12 11:27:57"
+    "created_at": "2024-02-13 11:28:09"
   },
   {
     "dealer": "37188",
@@ -21,7 +21,7 @@
     "color": "Pavement",
     "base_msrp": "31000",
     "total_msrp": "33140.0",
-    "created_at": "2024-02-12 11:27:58"
+    "created_at": "2024-02-13 11:28:09"
   },
   {
     "dealer": "37094",
@@ -33,6 +33,6 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "31000",
     "total_msrp": "33198.0",
-    "created_at": "2024-02-12 11:28:04"
+    "created_at": "2024-02-13 11:28:15"
   }
 ]

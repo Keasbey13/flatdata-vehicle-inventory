@@ -9,19 +9,7 @@
     "color": "Solar Shift [extra_cost_color]",
     "base_msrp": "35860",
     "total_msrp": "37708.0",
-    "created_at": "2024-02-14 11:27:53"
-  },
-  {
-    "dealer": "37188",
-    "vin": "JF1ZNBE14P9766847",
-    "year": "2023",
-    "vehicle": "86",
-    "model": "G8P",
-    "transmission": "6MT",
-    "color": "Pavement",
-    "base_msrp": "31000",
-    "total_msrp": "33140.0",
-    "created_at": "2024-02-14 11:27:54"
+    "created_at": "2024-02-15 11:27:56"
   },
   {
     "dealer": "37094",
@@ -33,6 +21,6 @@
     "color": "Track bRED [extra_cost_color]",
     "base_msrp": "31000",
     "total_msrp": "33198.0",
-    "created_at": "2024-02-14 11:27:58"
+    "created_at": "2024-02-15 11:28:03"
   }
 ]
